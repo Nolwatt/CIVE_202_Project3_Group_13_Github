@@ -8,5 +8,7 @@ Using Federal Highway Administration datasets (NHTS, NGSIM), we visualized trave
 # Repository Files:
 
 The following files are included in the repository:
+
 [Timesheet](CIVE202_Spring2026_GroupP3-G13_Project3_Timesheet (1))
+
 [Gantt Chart](CIVE_202_Project3_Group_13_GanttChart (1))
