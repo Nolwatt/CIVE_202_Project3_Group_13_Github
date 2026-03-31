@@ -16,3 +16,5 @@ The following files are included in the repository:
 [Code](CIVE202_Spring2026_GroupP3-G13_Project3_Code.ipynb)
 
 [Annotated Code Document](CIVE202_Spring2026_GroupP3-G13_Project3_ACD.xlsx)
+
+[Scope of Work](CIVE202_Spring2026_GroupP3-G13_Project3_SOW.docx)
